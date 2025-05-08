@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="processador-de-imagem",
     version="0.0.1",
     author="Zoe Santos",
     author_email="zmmateus2@gmail.com",
     description="My first application of image processing with python language",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Zoemateus324/processador-de-imagem",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
