@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="processador-de-imagem",
-    version="0.0.1",
+    name="processador-de-imagem-zoemateus324",
+    version="0.0.2",
     author="Zoe Santos",
     author_email="zmmateus2@gmail.com",
     description="My first application of image processing with python language",
