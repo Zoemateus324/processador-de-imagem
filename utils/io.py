@@ -5,4 +5,4 @@ def read_image(path, is_gray = False):
     return image
 
 def save_image(image, path):
-    imsave(path, image)  f sdfxcvxxcvxcvxcvxcvxcvxcv
+    imsave(path, image) 
