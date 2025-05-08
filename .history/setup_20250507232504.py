@@ -14,7 +14,7 @@ setup(
     description="My first application of image processing with python language",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="my_github_repository_project_link"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
